@@ -1,0 +1,17 @@
+https://www.selver.ee/puu-ja-koogiviljad?limit=1000&page=1
+https://www.selver.ee/liha-ja-kalatooted?page=1&limit=1000
+https://www.selver.ee/piimatooted-munad-void?limit=1000
+https://www.selver.ee/juustud?limit=1000
+https://www.selver.ee/leivad-saiad-kondiitritooted?limit=1000
+https://www.selver.ee/valmistoidud?limit=1000
+https://www.selver.ee/suurpakendid?limit=1000
+https://www.selver.ee/kuivained-hoidised?limit=2000
+https://www.selver.ee/maitseained-ja-puljongid?limit=1000
+https://www.selver.ee/kastmed-olid?limit=1000
+https://www.selver.ee/maiustused-kupsised-naksid?limit=1000
+https://www.selver.ee/kulmutatud-toidukaubad?limit=1000
+https://www.selver.ee/joogid?limit=3000
+https://www.selver.ee/lastekaubad?limit=1000
+https://www.selver.ee/lemmiklooma-kaubad?limit=1000
+https://www.selver.ee/enesehooldustarbed?limit=1500
+https://www.selver.ee/majapidamis-ja-kodukaubad?limit=1500
